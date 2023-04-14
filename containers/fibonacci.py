@@ -1,4 +1,3 @@
-
 ##############################################################################
 # example fibonacci number code;
 # you do not have to modify this code in any way
@@ -56,7 +55,6 @@ class Fib:
     '''
     This class represents all the fibonacci numbers,
     but uses O(1) memory to do so.
-
     >>> list(Fib(5))
     [1, 1, 2, 3, 5]
     '''
