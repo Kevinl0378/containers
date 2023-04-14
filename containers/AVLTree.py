@@ -71,7 +71,6 @@ class AVLTree(BST):
         '''
         FIXME:
         Implement this function.
-
         The lecture videos provide a high-level overview of tree rotations,
         and the textbook provides full python code.
         The textbook's class hierarchy for their AVL tree code
@@ -109,7 +108,6 @@ class AVLTree(BST):
         '''
         FIXME:
         Implement this function.
-
         The lecture videos provide a high-level overview of tree rotations,
         and the textbook provides full python code.
         The textbook's class hierarchy for their AVL
@@ -147,14 +145,12 @@ class AVLTree(BST):
         '''
         FIXME:
         Implement this function.
-
         The lecture videos provide a high-level
         overview of how to insert into an AVL tree,
         and the textbook provides full python code.
         The textbook's class hierarchy for their AVL
         tree code is fairly different from our class hierarchy,
         however, so you will have to adapt their code.
-
         HINT:
         It is okay to add @staticmethod helper functions for this code.
         The code should look very similar to the code
